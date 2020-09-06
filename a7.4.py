@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+#影像處理與用ros傳影像給gui端
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *

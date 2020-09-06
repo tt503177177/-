@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+#GUI端設置 與接收ros影像並顯示
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
